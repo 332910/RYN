@@ -1,0 +1,6 @@
+C:\Users\Raymond\documents\visual studio 2013\Projects\HotelManagementSystem\HotelManagementSystem\bin\HotelManagementSystem.dll.config
+C:\Users\Raymond\documents\visual studio 2013\Projects\HotelManagementSystem\HotelManagementSystem\bin\HotelManagementSystem.dll
+C:\Users\Raymond\documents\visual studio 2013\Projects\HotelManagementSystem\HotelManagementSystem\bin\HotelManagementSystem.pdb
+C:\Users\Raymond\documents\visual studio 2013\Projects\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.dll
+C:\Users\Raymond\documents\visual studio 2013\Projects\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.pdb
+C:\Users\Raymond\documents\visual studio 2013\Projects\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.csprojResolveAssemblyReference.cache
